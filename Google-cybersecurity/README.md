@@ -2,7 +2,7 @@
 
 Organizations must continuously protect themselves and the people they serve from cyber-related threats, like fraud and phishing. They rely on cybersecurity to maintain the confidentiality, integrity, and availability of their internal systems and information. Cybersecurity analysts use a collection of methods and technologies to safeguard against threats and unauthorized access — and to create and implement solutions should a threat get through.
 
-During the 8 courses in this certificate program, you’ll learn from cybersecurity experts at Google and gain in-demand skills that prepare you for entry-level roles like cybersecurity analyst, security operations center (SOC) analyst, and more. At under 10 hours per week, you can complete the certificate in less than 6 months.
+During the 8 courses in this [certificate program](https://www.coursera.org/google-certificates/cybersecurity-certificate), you’ll learn from cybersecurity experts at Google and gain in-demand skills that prepare you for entry-level roles like cybersecurity analyst, security operations center (SOC) analyst, and more. At under 10 hours per week, you can complete the certificate in less than 6 months.
 
 ## Skills
 
