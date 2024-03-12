@@ -1,4 +1,4 @@
-## CISSP security domains
+## CISSP Security Domains
 
 <p align="center">
   <img src="https://media.licdn.com/dms/image/D4D12AQFzvXSkf3lSJg/article-cover_image-shrink_720_1280/0/1697817459899?e=2147483647&v=beta&t=9OlsfKT_ljXI9iK1cvGNcBgR1VQQJG81HrDatpPjb0g"/>
@@ -61,7 +61,7 @@
 - Security cannot be an afterthought.
 - Performing a secure design review during the design phase, secure code reviews during the development and pentest during the deployment.
 
-## Threats, risks, and vulnerabilities
+## Threats, Risks, and Vulnerabilities
 
 - An **asset** is an item perceived as having value to an organization.
 - A **threat** is any circumstance or event that can negatively impact assets.
@@ -79,3 +79,14 @@
 5. Assess: determine if established controls are implemented correctly.
 6. Authorize: being accountable for the security and privacy risks that may exist in an organization.
 7. Monitor: be aware of how systems are operating.
+
+## Frameworks and Controls
+
+## Frameworks
+
+- Organizations use security frameworks as a starting point to create their own security policies and processes.
+- **Security frameworks** are guidelines used for building plans to help mitigate risks and threats to data and privacy.
+- People are the biggest threat to security.
+- Frameworks can be used to create plans that increase employee awareness and educate them.
+
+## Security controls
