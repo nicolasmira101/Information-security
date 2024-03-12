@@ -14,7 +14,6 @@
 - **Security posture**: an organization's ability to manage its defense of critical assets and data and react to change.
 - **Information security** is also related to this domain and refers to a set of processes established to secure information.
 - An organization may use playbooks and implement training as a part of their security and risk management program.
-- 
 
 ### Asset Security
 
@@ -61,3 +60,22 @@
 - Security must be incorporated into each element of the software development life cycle, from design and development to testing and release.
 - Security cannot be an afterthought.
 - Performing a secure design review during the design phase, secure code reviews during the development and pentest during the deployment.
+
+## Threats, risks, and vulnerabilities
+
+- An **asset** is an item perceived as having value to an organization.
+- A **threat** is any circumstance or event that can negatively impact assets.
+- A **risk** is anything that can impact the confidentiality, integrity, or availability of an asset. The likelihood of a threat occurring.
+- A **vulnerability** is a weakness that can be exploited by a threat.
+- Security involves protecting organizations and people from threats, risks, and vulnerabilities.
+- Understanding the current threat landscapes gives organizations the ability to create policies and processes designed to help prevent and mitigate these types of security issues.
+
+### NIST Risk Management Framework
+
+1. Prepare: refers to activities that are necessary to manage security and privacy risks before a breach occurs.
+2. Categorize:  is used to develop risk management processes and tasks.
+3. Select: choose, customize, and capture documentation of the controls that protect an organization.
+4. Implement: security and privacy plans for the organization.
+5. Assess: determine if established controls are implemented correctly.
+6. Authorize: being accountable for the security and privacy risks that may exist in an organization.
+7. Monitor: be aware of how systems are operating.
