@@ -90,3 +90,9 @@
 - Frameworks can be used to create plans that increase employee awareness and educate them.
 
 ## Security controls
+
+- Controls are used to reduce specific risks.
+- Security controls are safeguards designed to reduce specific security risks.
+- Encryption is the process of converting data from a readable format to an encoded format.
+- Authentication is the process of verifying who someone or something is.
+- Authorization refers to the concept of granting access to specific resources within a system.
