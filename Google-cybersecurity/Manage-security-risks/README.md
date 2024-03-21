@@ -111,3 +111,24 @@
 - **Availability**: Authorized users can access data when needed (e.g., remote access to internal network with limited permissions).
 - Establishes a strong security posture.
 - Improves understanding of how security teams protect organizations.
+
+## NIST frameworks
+
+- Organizations use frameworks as a starting point to develop plans that mitigate risks, threats, and vulnerabilities.
+- Frameworks are created by organizations to assist security professionals in developing effective security plans.
+- National Institute of Standards and Technology (NIST) provides frameworks to support ongoing security efforts for all types of organizations.
+
+### NIST CSF
+
+- Is a voluntary framework consisting of standards, guidelines, and best practices to manage cybersecurity risk.
+- Essential for maintaining security.
+- Consists of five core functions:
+  + **Identify**: Managing cybersecurity risks and their impact on people and assets. A security analyst monitors internal networks for potential security issues.
+  + **Protect**: Implementing policies, procedures, training, and tools to mitigate threats. ecurity teams implement policies, procedures, training, and tools to mitigate threats.
+  + **Detect**: Identifying potential security incidents and improving monitoring capabilities. A security analyst reviews a new security tool to ensure proper flagging of security incidents.
+  + **Respond**: Containing, neutralizing, analyzing incidents, and implementing improvements. A security team works together to contain, neutralize, analyze incidents, and improve security processes.
+  + **Recover**: Returning affected systems back to normal operation. A security team restores systems, data, and assets affected by incidents.
+
+## OWASP
+
+- 
