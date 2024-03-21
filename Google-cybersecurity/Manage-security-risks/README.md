@@ -93,6 +93,12 @@
 
 - Controls are used to reduce specific risks.
 - Security controls are safeguards designed to reduce specific security risks.
+- Controls are used alongside frameworks to reduce the possibility and impact of a security threat.
+- Controls can be physical, technical, and administrative.
+- Controls are typically used to prevent, detect, or correct security issues.
+- **Physical controls**: Gates, fences, locks, security guards, CCTV, surveillance cameras, and motion detectors.
+- **Technical controls**: Firewall, MFA and antivirus.
+- **Administrative controls**: separation of duties, authorization and asset classification.
 - Encryption is the process of converting data from a readable format to an encoded format.
 - Authentication is the process of verifying who someone or something is.
 - Authorization refers to the concept of granting access to specific resources within a system.
