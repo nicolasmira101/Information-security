@@ -102,3 +102,12 @@
 - Encryption is the process of converting data from a readable format to an encoded format.
 - Authentication is the process of verifying who someone or something is.
 - Authorization refers to the concept of granting access to specific resources within a system.
+
+## The CIA triad
+
+- Model for managing security risks, helps organizations consider risks when setting up systems and security policies.
+- **Confidentiality**: Only authorized users access specific data (achieved through least privilege principle).
+- **Integrity**: Data is verifiably correct, authentic, and reliable (ensured through cryptography and encryption).
+- **Availability**: Authorized users can access data when needed (e.g., remote access to internal network with limited permissions).
+- Establishes a strong security posture.
+- Improves understanding of how security teams protect organizations.
