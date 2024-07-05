@@ -131,4 +131,61 @@
 
 ## OWASP
 
-- 
+- Security Principles:
+  + Help cybersecurity analysts reduce risk for an organization.
+  + **Minimize attack surface area**: Reduce potential vulnerabilities.
+  + **Principle of least privilege**: Give users only the access they need.
+  + **Defense in depth**: Have multiple security controls in place.
+  + **Separation of duties**: Require multiple people for critical actions.
+  + **Keep security simple**: Avoid overly complex security solutions.
+  + **Fix security issues correctly**: Address the root cause of incidents.
+  + **Establish secure defaults**: Make security the default state.
+  + **Fail securely**: When controls fail, default to the most secure option.
+  + **Don't trust services**: Verify security of third-party partners.
+  + **Avoid security by obscurity**: Don't rely on hiding information for security.
+
+## Security Audits
+
+- Improve an organization's security posture.
+- Help organizations avoid compliance fines.
+- Identify organizational risks.
+- Assess security controls.
+- Correct compliance issues.
+- Internal and external.
+- Reviews of an organization's security controls, policies, and procedures against internal and external criteria.
+- Internal criteria: Policies, procedures, and best practices.
+- External criteria: Regulatory compliance, laws, and federal regulations.
+- Help maintain an organization's security posture and identify areas for remediation.
+- Frameworks (e.g., NIST CSF, ISO 27000) help organizations prepare for audits.
+- Adherence to frameworks saves time during audits.
+- Frameworks and controls help align with compliance requirements.
+- [Control categories](https://docs.google.com/document/d/1Ut_H5A9FHwuQEy6_qG6Lfy3zwF6GSJnj3DZTMaNRWEE/template/preview?resourcekey=0-i4dR5qZFqQyfzr8uk3OOmA)
+- [Assessment & Auditing Resources](https://www.nist.gov/cyberframework/assessment-auditing-resources)
+  
+- Planning process:
+  + Establishing Scope: Identify relevant people, assets, policies, procedures, and technologies. (e.g., user permissions, existing controls, current technology).
+  + Defining Goals: Outline security objectives to achieve (e.g., implementing core security frameworks, establishing compliance policies, strengthening system controls).
+  + Risk Assessment (conducted by managers/stakeholders): Identify potential threats, risks, and vulnerabilities. (e.g., inadequate controls for physical/digital assets, unsecured data storage, weak access controls for internal network).
+  + Controls Assessment: Evaluate the effectiveness of implemented security controls.
+  + Compliance Assessment: Verify adherence to relevant regulations.
+    
+- Internal security audit:
+  + Review Key Documents: Before diving into the final stages, revisit the established scope (focus areas of the audit), goals (objectives to improve security), and the completed risk assessment (identification of potential threats and vulnerabilities).
+  + Ask Critical Questions: Analyze these documents to understand the audit's purpose, the most at-risk assets, and the effectiveness of current controls in protecting those assets.
+  + Identifying Security Gaps: Audits are crucial for uncovering weaknesses in an organization's security strategy. The
+  + Improved Security Posture: By identifying and addressing security shortcomings, organizations can significantly strengthen their overall security posture.
+  + Data-Driven Decision Making: Audits provide valuable insights that can inform security decision-making.
+    
+- Control Assessment:
+  + Administrative Controls: Focus on the human element. These are policies and procedures that define data management practices, such as password complexity requirements.
+  + Technical Controls: Involve hardware and software solutions to safeguard assets. Examples include intrusion detection systems (IDS) and data encryption.
+  + Physical Controls: Implement measures to prevent physical access to critical assets. This might involve surveillance cameras, access control systems, and locks.
+  + Evaluating Control Effectiveness: Assess how well these controls mitigate the identified risks from the risk assessment.
+ 
+- Compliance Assessment:
+  + Understanding Compliance Regulations: Remember, these are legal requirements organizations must follow to ensure the security of private data.
+  + Verification Process: In this step, you'll determine if the organization adheres to the necessary compliance regulations. The text mentions an example where the organization operates in the EU and accepts credit card payments.
+
+- Communication: Delivering the Findings
+  + Audience: Once the audit is complete, you'll need to communicate the results and recommendations to relevant stakeholders within the organization.
+  + Content of Communication: This report typically summarizes the audit's scope and goals, followed by a clear outline of the identified security risks.
