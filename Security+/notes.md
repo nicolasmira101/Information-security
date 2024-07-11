@@ -77,6 +77,101 @@ Texto del primer apartado
 
    **Persistence**: refers to techniques used by attackers to maintain their access to a compromised system over a         long period. By installing a backdoor, Kyle ensures he can access the database server in the future, even if the       initial point of entry is discovered and closed.
 
+**7. Ryan intends to perform a vulnerability assessment on a business-critical system utilizing high-risk plug-ins. What would be the most effective strategy for the initial scan?**
+   - [ ] Do not run the scan to avoid disrupting the business.
+   - [ ] Run the scan during business hours.
+   - [X] Run the scan in a test environment.
+   - [ ] Run the scan against production systems to achieve the most realistic results possible.
+
+   **Run the scan in a test environment**: this ensures that any potential disruptions or negative impacts caused by the high-risk plug-ins do not affect the actual business operations. This approach allows you to identify and address vulnerabilities without jeopardizing the stability and availability of the production system.
+
+**8. Among the following methods, which technique qualifies as passive reconnaissance?**
+   - [ ] Footprinting.
+   - [ ] Port scans.
+   - [ ] Vulnerability scans.
+   - [X] WHOIS lookups
+
+   **WHOIS lookups**: involve querying public databases to obtain information about the ownership and registration details of a domain name or IP address. This method does not interact directly with the target system or network, making it a passive form of reconnaissance.
+
+**9. Kevin is setting up a web server to utilize digital certificates. What technology enables clients to swiftly confirm the status of those certificates without reaching out to a remote server?**
+   - [ ] Certificate pinning
+   - [X] Certificate stapling
+   - [ ] OCSP
+   - [ ] CRL
+
+   **Certificate stapling**: allows a web server to obtain a time-stamped response from the Certificate Authority (CA) about the status of its certificate (using the Online Certificate Status Protocol, OCSP) and "staple" this response to the TLS handshake. This way, the client can verify the certificate status immediately without needing to contact the CA's OCSP server directly.
+
+**10. Which digital certificate offers the highest level of confidence that the certificate owner's identity is genuine?**
+   - [X] EV
+   - [ ] UV
+   - [ ] OV
+   - [ ] DV
+
+   **EV (Extended Validation)**: certificates require a rigorous validation process, including verification of the organization’s legal existence, physical address, and operational status. This thorough vetting process provides the highest level of assurance regarding the certificate owner's identity.
+
+**11. Layla recently uncovered an incident where an attacker compelled a network user to utilize weak encryption,subsequently decrypting the content. What term accurately characterizes this attack?**
+   - [ ] Collision
+   - [X] Downgrade
+   - [ ] Homomorphic encryption
+   - [ ] Birthday attack
+
+   **Downgrade**: this attack involves forcing a system or user to use a weaker encryption protocol or cipher than it would normally use, thereby making it easier for the attacker to decrypt the communication. This can happen if the attacker manipulates the communication or compromises the negotiation process between the client and server to select a weaker encryption standard.
+
+**12. Among the following servers in a substantial PKI implementation, which one is typically an offline CA?**
+   - [ ] Internal CA
+   - [ ] RA
+   - [ ] Intermediate CA
+   - [X] Root CA
+
+   **Root CA**: is typically an offline server. It is the top-most CA in the hierarchy, responsible for issuing and signing Intermediate CA certificates. Root CA keys are kept offline to protect them from compromise.
+
+**13. Kevin aims to establish a security measure capable of enforcing access restrictions across all of his organization's SaaS solutions. Which control would be most suitable for fulfilling his requirements?**
+   - [ ] SWG
+   - [X] CASB
+   - [ ] Security groups
+   - [ ] Resource policy
+
+   **CASB (Cloud Access Security Broker)** are specifically designed to provide visibility and control over data that is stored in and accessed through cloud applications. They allow organizations to enforce access policies, monitor activities, and protect data across multiple SaaS solutions.
+
+**14. Greg is in search of a document that provides guidance on mapping cloud security controls to various regulatory standards. Which would be most helpful for this purpose?**
+   - [ ] NIST SP 500-292
+   - [ ] ISO 27002
+   - [X] CSA CCM
+   - [ ] PCI DSS
+
+   **CSA CCM (Cloud Security Alliance Cloud Controls Matrix)**: provides a detailed mapping of security controls to various regulatory standards, frameworks, and industry standards. It is specifically designed to help organizations align their cloud security practices with different compliance requirements and regulatory frameworks.
+
+**15. Which access control scheme most accurately characterizes the Linux filesystem?**
+   - [X] DAC
+   - [ ] ABAC
+   - [ ] RBAC
+   - [ ] MAC
+
+   **DAC (Discretionary Access Control)**: DAC allows users to control access to their own resources. In Linux filesystems, file and directory permissions (such as read, write, execute) are set by the owner of the file or directory, which aligns with DAC principles.
+
+**16. Linda developed a new payroll system which she provides to her clients. She hosts the payroll system on AWS, and her clients access it via the web. Which level of cloud computing most accurately characterizes Linda's service?**
+   - [X] SaaS
+   - [ ] IasS
+   - [ ] FaaS
+   - [ ] PaaS
+
+   **SaaS (Software as a Service)**: in this model, the provider (Linda) hosts applications and makes them available to customers (her clients) over the internet. Clients access the software using a web browser without needing to manage any underlying infrastructure, such as servers, operating systems, or network components.
+
+**17. Samantha is deploying a PAM solution and seeks to guarantee accessibility to root passwords during system outages. Which PAM-associated tool is most apt for addressing this scenario?**
+   - [X] Password vaulting
+   - [ ] Ephemeral accounts
+   - [ ] Just-in-time permissions
+   - [ ] Token-based authentication
+
+   **Password vaulting**: this tool securely stores and manages passwords, allowing authorized users to retrieve them when needed, including during system outages.
+
+**18. John intends to acquire a forensic duplicate of an operational virtual machine. Which method should he employ to capture the image?**
+   - [ ] Run dd from within the running machine.
+   - [X] Use FTK Imager from the virtual machine host.
+   - [ ] Use the VM host to create a snapshot.
+   - [ ] Use WinHex to create a copy from within the running machine
+
+   **Use FTK Imager from the virtual machine host**: FTK Imager is a forensic imaging tool that can create a forensic duplicate of a virtual machine's disk. Running it from the virtual machine host ensures that the image is captured without interfering with the live state of the virtual machine, providing a more accurate and reliable forensic image.
 
 ## Resources<a name="id7"></a>
 
