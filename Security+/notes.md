@@ -13,6 +13,9 @@
 
 ![Imagen](https://i.imgur.com/jWyn4H7.png)
 
+![Imagen](https://preview.redd.it/xegh56kbrk751.png?width=679&format=png&auto=webp&s=178918de96031d24292c15c8cc34f2163b70f84b)
+
+
 ## Threats, Vulnerabilities, and Mitigations<a name="id2"></a>
 Texto del segundo apartado
 
