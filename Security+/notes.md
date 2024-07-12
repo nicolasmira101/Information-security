@@ -10,7 +10,8 @@
 7. [Resources](#id7)
    
 ## General Security Concepts<a name="id1"></a>
-Texto del primer apartado
+
+![Imagen](https://i.imgur.com/jWyn4H7.png)
 
 ## Threats, Vulnerabilities, and Mitigations<a name="id2"></a>
 Texto del segundo apartado
@@ -177,6 +178,7 @@ Texto del primer apartado
 
 - [CompTIA Security+ Certification Exam Objectives](https://static.platzi.com/media/public/uploads/comptia-security-sy0-701-objectives_2a47ec72-7e00-4723-99a5-667ae2b9e074.pdf)
 - [CompTIA Example Simulation](https://demosim.comptia.io/)
+- [CompTIA SY0-701 Security+ Training Course](https://www.youtube.com/playlist?list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv) 
 
 
 
