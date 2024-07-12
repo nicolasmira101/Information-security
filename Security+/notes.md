@@ -11,9 +11,13 @@
    
 ## General Security Concepts<a name="id1"></a>
 
-![Imagen](https://i.imgur.com/jWyn4H7.png)
+<p align="center">
+  <img src="[https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true](https://i.imgur.com/jWyn4H7.png)" alt="Sublime's custom image"/>
+</p>
 
-![Imagen](https://preview.redd.it/xegh56kbrk751.png?width=679&format=png&auto=webp&s=178918de96031d24292c15c8cc34f2163b70f84b)
+<p align="center">
+  <img src="[https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true](https://preview.redd.it/xegh56kbrk751.png?width=679&format=png&auto=webp&s=178918de96031d24292c15c8cc34f2163b70f84b)" alt="Sublime's custom image"/>
+</p>
 
 
 ## Threats, Vulnerabilities, and Mitigations<a name="id2"></a>
