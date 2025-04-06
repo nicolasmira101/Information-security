@@ -1,33 +1,55 @@
 # CompTIA Security+ (SY0-701)
 
 ## **Índice**   
-1. [General Security Concepts](#id1)
-2. [Threats, Vulnerabilities, and Mitigations](#id2)
-3. [Security Architecture](#id3)
-4. [Security Operations](#id4)
-5. [Security Program Management and Oversight](#id5)
+1. [Fundamental Security Concepts](#id1)
+2. 
 6. [Practice Test](#id6)
 7. [Resources](#id7)
    
-## General Security Concepts<a name="id1"></a>
+## Fundamental Security Concepts<a name="id1"></a>
 
-![CIA Triad](https://preview.redd.it/xegh56kbrk751.png?width=679&format=png&auto=webp&s=178918de96031d24292c15c8cc34f2163b70f84b)
+### Security Concepts
 
-![Security Controls](https://i.imgur.com/jWyn4H7.png)
+**CIA Triad:**
 
-![AAA Framework](https://github.com/user-attachments/assets/d478d679-b9b5-4a19-9913-a2378ab1f41c)
+- **Confidentiality** means that information can only be read by people who have been explicitly authorized to access it.
+- **Integrity** means that the data is stored and transferred as intended, and any modification is unauthorized unless explicitly authorized through proper channels.
+- **Availability** means that information is readily accessible to those authorized to view or modify it
 
-## Threats, Vulnerabilities, and Mitigations<a name="id2"></a>
-Texto del segundo apartado
+**NIST Cybersecurity Framework**
+ 
+- **Identify**: develop security policies and capabilities. Evaluate risks, threats, and vulnerabilities and recommend security controls to mitigate them.
+- **Protect**: procure/develop, install, operate, and decommission IT hardware and software assets with security as an embedded requirement of every stage of this operation's lifecycle.
+- **Detect**: perform ongoing, proactive monitoring to ensure that controls are effective and capable of protecting against new types of threats.
+- **Respond**: identify, analyze, contain, and eradicate threats to systems and data security.
+- **Recover**: implement cybersecurity resilience to restore systems and data if other controls are unable to prevent attacks.
+  
+- A cybersecurity framework guides the selection and configuration of controls.
+- The use of a framework allows an organization to make an objective statement of its current cybersecurity capabilities, identify a target level of capability, and prioritize investments to achieve that target.
+- Gap analysis is a process that identifies how an organization's security systems deviate from those required or recommended by a framework.
 
-## Security Architecture<a name="id3"></a>
-Texto del primer apartado
 
-## Security Operations<a name="id4"></a>
-Texto del segundo apartado
+**Access Control**
 
-## Security Program Management and Oversight<a name="id5"></a>
-Texto del primer apartado
+- An access control system ensures that an information system meets the goals of the CIA triad.
+- Governs how subjects/principals may interact with objects.
+- **Subjects** are people, devices, software processes, or any other system that can request and be granted access to a resource.
+- **Objects** are the resources. An object could be a network, server, database, app, or file.
+
+**Identity and Access Management (IAM)**
+
+![image](https://github.com/user-attachments/assets/ad6f6672-f440-458c-a638-e3d066125507)
+
+
+### Security Controls
+
+- A security control is designed to give a system or data asset the properties of confidentiality, integrity, availability, and non-repudiation
+- **Managerial**: the control gives oversight of the information system. Examples could include risk identification or a tool allowing the evaluation and selection of other security controls.
+- **Operational**: the control is implemented primarily by people. For example, security guards and training programs are operational controls.
+- **Technical**: the control is implemented as a system (hardware, software, or firmware). For example, firewalls, antivirus software, and OS access control models are technical controls.
+- **Physical**: controls such as security cameras, alarms, gateways, locks, lighting, and security guards that deter and detect access to premises and hardware are often placed in a separate category from technical controls.
+
+**Security Control Functional Type**
 
 ## Practice Test<a name="id6"></a>
 
