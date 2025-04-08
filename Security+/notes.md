@@ -51,6 +51,45 @@
 
 **Security Control Functional Type**
 
+- **Preventive**: the control acts to eliminate or reduce the likelihood that an attack can succeed.
+- **Detective**: the control may not prevent or deter access, but it will identify and record an attempted or successful intrusion.
+- **Corrective**: the control eliminates or reduces the impact of a security policy violation.
+- **Directive**: the control enforces a rule of behavior, such as a policy, best practice standard, or standard operating procedure.
+- **Deterrent**: the control may not physically or logically prevent access, but it psychologically discourages an attacker from attempting an intrusion.
+- **Compensating**: the control is a substitute for a primary control.
+
+**Information Security Roles and Responsibilities**
+
+- A security policy is a formalized statement that defines how security will be implemented within an organization.
+- An organization that develops security policies and uses framework-based security controls has a strong security posture.
+- Overall responsibility for the IT function lies with a **Chief Information Officer (CIO)**.
+- In larger organizations, internal responsibility for security might be allocated to a dedicated department, run by a **Chief Information Security Officer (CISO)**.
+- **Managers** may have responsibility for a domain, such as building control, web services, or accounting.
+- **Technical and specialist staff** have responsibility for implementing, maintaining, and monitoring the policy. 
+- **Nontechnical staff** have the responsibility of complying with policy and with any relevant legislation.
+
+**Information Security Competencies**
+
+- Participate in risk assessments and testing of security systems and make recommendations.
+- Specify, source, install, and configure secure devices and software.
+- Set up and maintain document access control and user privilege profiles.
+- Monitor audit logs, review user privileges, and document access controls.
+- Manage security-related incident response and reporting.
+- Create and test business continuity and disaster recovery plans and procedures.
+- Participate in security training and education programs.
+
+**Information Security Business Units**
+
+- A **security operations center (SOC)** is a location where security professionals monitor and protect critical information assets.
+- **Development and operations (DevOps)** is a cultural shift within an organization to encourage much more collaboration between developers and systems administrators.
+- **DevSecOps** extends the boundary to security specialists and personnel, reflecting the principle that security is a primary consideration at every stage of software development and deployment.
+- A dedicated **computer security incident response team (CSIRT)**/**computer emergency response team (CERT)** is a single point of contact for the notification of security incidents.
+
+
+
+
+
+
 ## Practice Test<a name="id6"></a>
 
 **1. Chris desires systems connecting to his network to transmit their boot processes to a server for validation before gaining network access. Which technology should he employ to achieve this functionality on the workstations?**
